@@ -16,9 +16,9 @@ _Live Example: https://404-not-found-ivory.vercel.app/_
 
 ## Reference source
 
-[Keep the Footer at the Bottom: Flexbox vs. Grid](https://moderncss.dev/keep-the-footer-at-the-bottom-flexbox-vs-grid/)
+- [Keep the Footer at the Bottom: Flexbox vs. Grid](https://moderncss.dev/keep-the-footer-at-the-bottom-flexbox-vs-grid/)
 
-[3 Popular Website Heroes Created With CSS Grid Layout](https://moderncss.dev/3-popular-website-heroes-created-with-css-grid-layout/)
+- [3 Popular Website Heroes Created With CSS Grid Layout](https://moderncss.dev/3-popular-website-heroes-created-with-css-grid-layout/)
 
 
 
